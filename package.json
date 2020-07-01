@@ -1,0 +1,30 @@
+{
+  "name": "first-pro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "nuxt serve",
+    "build": "nuxt build",
+    "dev": "nuxt",
+    "export": "nuxt export",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "nuxt": "^2.13.0",
+    "vee-validate": "^3.3.6",
+    "vuetify": "^2.2.11"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "~2.0.6",
+    "vuetify-loader": "^1.3.0"
+  }
+}
